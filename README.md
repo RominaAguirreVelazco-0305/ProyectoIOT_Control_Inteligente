@@ -190,6 +190,29 @@ Este archivo JSON contiene las respuestas predefinidas para algunas preguntas co
 ```
 
 ## Capturas de Pantalla 📸
+
+### Control Inteligente
+![Imagen de WhatsApp 2024-11-11 a las 21 39 49_dadc3475](https://github.com/user-attachments/assets/b58a29f6-f9ee-4411-a0ef-3cf466de768e)
+![Imagen de WhatsApp 2024-11-11 a las 21 39 49_3329137e](https://github.com/user-attachments/assets/3681b61a-345d-4ce3-969f-d1b844a81fec)
+
+### Prender la luz
+![Imagen de WhatsApp 2024-11-11 a las 21 39 49_6798625f](https://github.com/user-attachments/assets/d62c4b71-a444-48cf-bd0d-cdcd0cb4e73a)
+![Imagen de WhatsApp 2024-11-11 a las 18 03 37_64c1fabb](https://github.com/user-attachments/assets/68df37ec-3bb8-44ab-af37-b47563b74292)
+
+### Apagar la luz
+![Imagen de WhatsApp 2024-11-11 a las 21 39 50_09d0858a](https://github.com/user-attachments/assets/842fa7fa-af96-4358-b8f6-1153e02565f6)
+![Imagen de WhatsApp 2024-11-11 a las 18 03 39_ca6d449c](https://github.com/user-attachments/assets/09db6f36-8c55-425b-a138-6fc3689b281f)
+
+### Luz parpadea
+![Imagen de WhatsApp 2024-11-11 a las 21 39 50_e5d42409](https://github.com/user-attachments/assets/634cb205-9716-4336-a117-cae604bd030b)
+![Imagen de WhatsApp 2024-11-11 a las 18 03 38_0d50b56d](https://github.com/user-attachments/assets/a885bd9c-a322-4bf5-af3b-50805a020157)
+
+### Luz apaga y prende 
+![Imagen de WhatsApp 2024-11-11 a las 21 39 50_de6500ab](https://github.com/user-attachments/assets/47894cb3-751e-4604-92c4-27bd81edf853)
+![Imagen de WhatsApp 2024-11-11 a las 18 03 38_658967d8](https://github.com/user-attachments/assets/4d37216c-6e9e-40c0-b4e5-dbff2f7889e5)
+![Imagen de WhatsApp 2024-11-11 a las 18 03 37_d4cb16ca](https://github.com/user-attachments/assets/cf04b016-a193-4987-81ad-31f5a7944537)
+
+
 ### Interfaz del Control de LED
 Puedes incluir aquí las capturas de pantalla de la interfaz web, mostrando cómo se controla el LED con los diferentes botones y comandos.
 
@@ -230,5 +253,7 @@ Para cualquier consulta, envía un correo a: [tu-email@example.com](mailto:tu-em
 
 ---
 
+## Desarrollado con ❤️ por Romina Aguirre. 
 ¡Gracias por interesarte en este proyecto! 🚀
+
 
