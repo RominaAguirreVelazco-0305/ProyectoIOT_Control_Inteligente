@@ -249,7 +249,7 @@ Puedes incluir aquí las capturas de pantalla de la interfaz web, mostrando cóm
 ¡Sientéte libre de contribuir al proyecto! Puedes abrir issues, enviar PRs o sugerir mejoras.
 
 ## Contacto 📧
-Para cualquier consulta, envía un correo a: [tu-email@example.com](mailto:tu-email@example.com).
+Para cualquier consulta, envía un correo a: [romina.aguirre8841@alumnos.udg.mx]().
 
 ---
 
