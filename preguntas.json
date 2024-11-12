@@ -1,0 +1,20 @@
+{
+  "preguntas": {
+    "enciende la luz": {
+      "respuesta": "Encendiendo la luz.",
+      "comando": "LED_ON"
+    },
+    "apaga la luz": {
+      "respuesta": "Apagando la luz.",
+      "comando": "LED_OFF"
+    },
+    "haz que parpadee la luz": {
+      "respuesta": "Haciendo que la luz parpadee.",
+      "comando": "LED_TOGGLE"
+    },
+    "apaga y prende la luz": {
+      "respuesta": "Apagando y luego prendiendo la luz.",
+      "comando": "LED_TOGGLE"
+    }
+  }
+}
